@@ -1,0 +1,4 @@
+shop
+====
+<?php
+echo phpinfo();
